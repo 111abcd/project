@@ -7,9 +7,3 @@
 //
 
 #include "Inquiry_Ticket.hpp"
-
-
-master
-
-Mosalah youssef
-master
